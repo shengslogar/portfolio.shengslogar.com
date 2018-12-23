@@ -1,10 +1,18 @@
 # Portfolio
 
+### Homina
+#### June 2018
+*Minimalistic new-tab Chrome extension | HTML, CSS, Vue.js*
+
+[Visit Chrome Web Store](https://chrome.google.com/webstore/detail/homina/fioieebccopjgmnhbgkcfnhaijefjjpj)
+[Github](https://github.com/shengslogar/bingschedules)
+
 ### Bing Schedules
 #### February 2018
 *Chrome extension for Binghamton University students | HTML, CSS, jQuery*
 
 [Visit Chrome Web Store](https://chrome.google.com/webstore/detail/bing-schedules/ofpmakmjnlpkpnelpdkjpapilnbcafdl?hl=en-US)
+[Github](https://github.com/shengslogar/homina)
 
 ### Stoudt Associates
 #### October 2016
