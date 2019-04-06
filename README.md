@@ -40,7 +40,7 @@ No longer online
 #### March 2015
 *Camp event landing page | HTML, CSS, PHP*
 
-[Visit Site](http://thegauntletrun.org/)
+No longer online.
 
 ### Twin Tiers Bible Fellowship
 #### September 2013
