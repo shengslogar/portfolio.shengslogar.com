@@ -40,7 +40,7 @@ No longer online
 #### March 2015
 *Camp event landing page | HTML, CSS, PHP*
 
-No longer online.
+No longer online
 
 ### Twin Tiers Bible Fellowship
 #### September 2013
