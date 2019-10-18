@@ -1,8 +1,14 @@
 # Portfolio
 
+### Smokey Legend BBQ
+#### July 2019
+*Simple landing page for the folks with some of Upstate New York's finest barbecue. | WordPress (PHP, CSS, JavaScript)*
+
+[Visit Site](https://smokeylegendbbq.com)
+
 ### CANiTEXT911
 #### December 2018
-*Public information site designed to help U.S. citizens discover if texting 911 is supported in their area | Sass, Lumen, Vue.js*
+*Public information site designed to help U.S. citizens discover if texting 911 is supported in their area | SCSS, Lumen, Vue.js*
 
 [Visit Site](https://canitext911.us) | [GitHub](https://github.com/CanIText911)
 
