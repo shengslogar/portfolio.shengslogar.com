@@ -4,7 +4,7 @@
 #### July 2019
 *Simple landing page for the folks with some of Upstate New York's finest barbecue. | WordPress (PHP, CSS, JavaScript)*
 
-[Visit Site](https://smokeylegendbbq.com)
+[Visit Site](https://smokeylegend.com)
 
 ### CANiTEXT911
 #### December 2018
@@ -26,13 +26,18 @@
 
 ### Stoudt Associates
 #### October 2016
-*Landing page | HTML, CSS, jQuery*
+*Landing page | HTML, CSS, jQuery, PHP*
 
 [Visit Site](http://stoudtcpas.com/)
 
+### CodeScraps
+#### May 2016
+
+[Visit Site](http://codescraps.io/)
+
 ### Heart&Cart
 #### May 2016
-*Email capture page | HTML, CSS, jQuery, PHP*
+*Email lead capture page | HTML, CSS, jQuery, PHP*
 
 [Visit Site](http://heartandcart.com/)
 
@@ -40,16 +45,21 @@
 #### March 2016
 *Fluid, step-by-step wishlist form | HTML, CSS, jQuery, PHP*
 
-No longer online
+[Visit Site](http://cabinetsinlancaster.com)
 
 ### The Gauntlet Run
 #### March 2015
 *Camp event landing page | HTML, CSS, PHP*
 
-No longer online
+[Visit Site](http://thegauntletrun.org/)
+
+### Mixtura Tech
+#### October 2014
+
+[Visit Site](http://mixturatech.com/)
 
 ### Twin Tiers Bible Fellowship
 #### September 2013
 *Church website | HTML, CSS, jQuery, PHP*
 
-No longer online
+[Visit Site](http://ttbf.info/)
