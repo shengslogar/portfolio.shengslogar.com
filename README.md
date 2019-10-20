@@ -45,7 +45,7 @@
 #### March 2016
 *Fluid, step-by-step wishlist form | HTML, CSS, jQuery, PHP*
 
-[Visit Site](http://cabinetsinlancaster.com)
+[Visit Site](http://cabinetsinlancaster.com/wish-list/)
 
 ### The Gauntlet Run
 #### March 2015
